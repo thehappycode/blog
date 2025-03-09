@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Hướng dẫn cấu hình viết Blog với Github Pages"
 date: 2025-03–09 16:00:00 +0700,
-# permalink: /
 # categories: [jekyll, blog]
 # tags: [jekyll, tutorial]
 ---
