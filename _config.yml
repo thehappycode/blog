@@ -1,3 +1,8 @@
 theme: jekyll-theme-hacker
 title: Blog's thehappycode
 description: Không có việc gì là quá nhỏ hoặc quá điên!
+permalink: /:categories/:year/:month/:day/:title/
+header_pages:
+  - pages/tags.html
+  - pages/categories.html
+
