@@ -3,7 +3,7 @@ title: Blog's thehappycode
 description: Không có việc gì là quá nhỏ hoặc quá điên!
 # permalink: /:categories/:year/:month/:day/:title/
 # permalink: /:year/:month/:day/:title/
-header_pages:
-  - pages/tags.html
-  - pages/categories.html
+# header_pages:
+#  - _pages/tags.html
+#  - _pages/categories.html
 
